@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Meu nome é [Pedro Arthur](github.com/pagmaia)
+Meu nome é [Pedro Arthur](github.com/pagmaia).
 
 Sou estudante de Ciência da Computação na Universidade Federal de Campina Grande (UFCG).
 
