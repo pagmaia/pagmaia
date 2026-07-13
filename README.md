@@ -1,4 +1,16 @@
-## Hi there 👋
+## Olá 👋
+
+Meu nome é [Pedro Arthur](github.com/pagmaia)
+
+Sou estudante de Ciência da Computação na Universidade Federal de Campina Grande (UFCG).
+
+Possuo alguns projetos feitos como trabalhos de algumas cadeiras, além de projetos em áreas de meu interesse, como Ciência de Dados.
+
+Stack: Python, Java e C++.
+
+Ferramentas/Bibliotecas : Git, Seaborn, Pandas.
+
+Em construção...
 
 <!--
 **pagmaia/pagmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
