@@ -10,6 +10,8 @@ Linguagens: Python, Java e C++.
 
 Ferramentas/Bibliotecas : Git, Seaborn, Pandas.
 
+Faço também alguns problemas de programação competitiva no [Codeforces](https://codeforces.com/profile/pedro.maia).
+
 <!--
 **pagmaia/pagmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
